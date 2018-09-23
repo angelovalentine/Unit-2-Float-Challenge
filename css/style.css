@@ -117,8 +117,19 @@ a {
 	}
 
 	/* ---- Columns ---- */
+	/* ---- Angelo's Work ---- */
 
-	
+	.secondary {
+		width: 40%;
+		padding: 1em;
+		float: left;
+	}
+
+	.primary {
+		width: 60%;
+		padding: 1em;
+		float: right;
+	}
 	
 	/* ------------- */
 
